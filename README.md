@@ -13,3 +13,10 @@ This app is created using the library Mediapipe by Google for python, which is a
 AI personal trainer can currently ditect simple arm reps and squats. functions to detect more movement is currently being built.
 
 
+## Progress
+
+Installed mediapipe and went through documentation and tutorials to get familiar with the library.
+
+Created a function to recognize a arm rep. from Down position to up and from up position to down. Counts the reps as well.
+
+Created a function to recognize a squat and to count the number of squats.
